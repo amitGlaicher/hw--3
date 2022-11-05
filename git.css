@@ -1,3 +1,7 @@
+*{
+    background-color: aqua;
+    border-style: double;
+}
 
 body{
 margin: 1cm; 
